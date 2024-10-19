@@ -17,6 +17,16 @@ Assurez-vous d'avoir `pkg`, `python`, et `pip` installés sur votre système.
    pkg install python
    ```
 
+1-1 **Clonage** 
+
+```bash
+git clone https://github.com/lockiey/hard-tool
+```
+
+```bash
+cd hard-tool
+```
+
 2. **Installer les dépendances :**
    ```bash
    pip install -r req.txt
@@ -25,6 +35,9 @@ Assurez-vous d'avoir `pkg`, `python`, et `pip` installés sur votre système.
 3. **Télécharger le script :**
    ```bash
    cd
+   ```
+
+   ```bash
    curl -o script.py https://raw.githubusercontent.com/lockiey/hard-tool/refs/heads/main/script.py
    ```
 
