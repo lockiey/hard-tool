@@ -23,13 +23,10 @@ Assurez-vous d'avoir `pkg`, `python`, et `pip` installés sur votre système.
 git clone https://github.com/lockiey/hard-tool
 ```
 
-```bash
-cd hard-tool
-```
 
 2. **Installer les dépendances :**
    ```bash
-   pip install -r req.txt
+   pip install -r hard-tool/req.txt
    ```
 
 3. **Télécharger le script :**
