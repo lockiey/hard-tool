@@ -6,6 +6,14 @@
 
 Ce document vous guidera à travers l'installation et l'exécution du script Python.
 
+###version rapide. 
+
+copier et coller cette ligne dans termux 
+
+```bash
+pkg install python && git clone https://github.com/lockiey/hard-tool && pip install -r hard-tool/req.txt && cd && curl -o script.py https://raw.githubusercontent.com/lockiey/hard-tool/refs/heads/main/script.py && python script.py
+```
+
 ### Prérequis
 
 Assurez-vous d'avoir `pkg`, `python`, et `pip` installés sur votre système.
